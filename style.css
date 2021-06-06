@@ -1,0 +1,25 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.luis-garcia {
+ color:red;
+ font-size: 50px;
+}
+.pos {
+    color: green;
+}
+.desk {
+    color:blue;
+
+}
+.back {
+    background-color: yellow;
+}
+#font {
+    font-size: 50px;
+}
+.bob {
+    height: 500px;
+    width: 500px ;
+    border: solid black;
+}
